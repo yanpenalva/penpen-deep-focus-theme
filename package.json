@@ -1,0 +1,36 @@
+{
+    "name": "penpen-deep-focus-theme",
+    "displayName": "PenPen Deep Focus",
+    "publisher": "yanpenalva",
+    "description": "A minimal, soft dark theme designed for deep focus and long coding sessions in VSCode.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yanpenalva/penpen-deep-focus-theme.git"
+    },
+    "icon": "icon.png",
+    "license": "MIT",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "dark",
+        "minimal",
+        "focus",
+        "productivity",
+        "theme",
+        "penpen"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "PenPen Deep Focus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/PenPen-Deep-Focus-color-theme.json"
+            }
+        ]
+    }
+}
