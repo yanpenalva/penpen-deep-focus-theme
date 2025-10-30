@@ -3,7 +3,7 @@
     "displayName": "PenPen Deep Focus",
     "publisher": "yanpenalva",
     "description": "A minimal, soft dark theme designed for deep focus and long coding sessions in VSCode.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.80.0"
     },
